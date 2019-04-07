@@ -1,5 +1,5 @@
 # DCS-EXTUV
-DCS-EXTUV is a C Extension For Dcs World to improve networking performance with LIBUV
+DCS-EXTUV is a C Extension For Dcs World to improve networking performance to interface with lua with LIBUV
 
 
 ## Contributing
